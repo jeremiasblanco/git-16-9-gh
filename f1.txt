@@ -1,0 +1,5 @@
+total 12
+drwxr-xr-x  3 jere jere 4096 Sep 16 12:21 ./
+drwxr-x--- 21 jere jere 4096 Sep 16 12:12 ../
+drwxr-xr-x  6 jere jere 4096 Sep 16 12:12 .git/
+-rw-r--r--  1 jere jere    0 Sep 16 12:21 f1.txt
